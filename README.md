@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 um pequeno projeto de um relógio analógico do Linkedin Learning.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+- [visite o projeto online] (https://gsilvaol.github.io/Rel-gio-Anal-gico/)
